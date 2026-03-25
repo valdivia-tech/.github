@@ -19,12 +19,13 @@ we take complex, specialized domains and make them programmable through autonomo
 
 not chatbots. not demos. **agents that do the job.**
 
-|  | domain | what the agent does |
-|--|--------|-------------------|
-| ⚡ | **energy** | autonomous electrical grid studies — power flow, short-circuit, protection coordination |
-| ⚖️ | **legal** | ai agents trained on chilean law that reason over regulation and case law |
-| 🏗️ | **infrastructure** | production-grade agent architectures, cloud orchestration, and deployment systems |
-| 🔗 | **blockchain** | decentralized protocols, tokenization of real-world assets, stablecoins |
+#### ⚡ [don nelson](https://donnelson.cl)
+
+our first agent. an autonomous digital electrical engineer that performs grid connection studies — power flow, short-circuit analysis, and protection coordination — using DIgSILENT PowerFactory.
+
+don nelson reads technical specifications, builds simulation models, runs the studies, iterates when convergence fails, and delivers engineering reports ready for submission to chile's national grid coordinator (CEN).
+
+the goal: an ai agent that does the work of a senior electrical engineer, end to end.
 
 ---
 
@@ -42,10 +43,10 @@ our hardest challenges still lie ahead.
 
 <div align="center">
 
-`ai agents` · `electrical engineering` · `legal tech` · `blockchain` · `cloud infrastructure` · `python` · `typescript`
+`ai agents` · `electrical engineering` 
 
 <br>
 
-[website](https://cristianvaldivia.cl) · [blog](https://cristianvaldivia.cl/blog) · [youtube](https://youtube.com/@attentionisallyouneed)
+[website](https://cristianvaldivia.cl) · [blog](https://cristianvaldivia.cl/blog)
 
 </div>
