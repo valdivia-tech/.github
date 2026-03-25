@@ -21,7 +21,7 @@ not chatbots. not demos. **agents that do the job.**
 
 #### ⚡ [don nelson](https://donnelson.cl)
 
-our first agent. an autonomous digital electrical engineer that performs grid connection studies — power flow, short-circuit analysis, and protection coordination — using DIgSILENT PowerFactory.
+our most ambitious agent. an autonomous digital electrical engineer that performs grid connection studies — power flow, short-circuit analysis, and protection coordination — using DIgSILENT PowerFactory.
 
 don nelson reads technical specifications, builds simulation models, runs the studies, iterates when convergence fails, and delivers engineering reports ready for submission to chile's national grid coordinator (CEN).
 
